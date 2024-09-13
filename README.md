@@ -26,7 +26,16 @@
 
 Проект Android Studio для практического по курсу "Программирование корпоративных систем". Было создано одностраничное приложение авторизации по кинутому шаблону. 
 
-![alt text][def]
-[def]: 5402348592808714261.jpg
+![image](https://github.com/user-attachments/assets/a504a325-937e-4bb2-b7ae-60f7dbf28355)
 
-Мои получившийся результат 
+## Мои получившийся результат 
+
+- **В Edge (edge)
+ ![image](https://github.com/user-attachments/assets/f904faae-cf5f-4190-b9d4-0ade653fd7ad)
+
+- **В Windows
+  ![image](https://github.com/user-attachments/assets/e023b4a0-86f6-44a6-8fff-1d9134ddc71b)
+  
+- ** На эмуляторе
+ ![image](https://github.com/user-attachments/assets/8147a1a6-578e-40f7-ad7c-45e0bec37a36)
+
